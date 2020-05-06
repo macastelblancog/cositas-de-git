@@ -14,4 +14,5 @@ M. Castelblanco nación en Bogotá en 1998. Estudia Geociencias e Ingeniería Qu
 
 ### Nuevo Colaborador
 
-Felipe Gómez
+* Felipe Gómez
+* César Bucheli (1998, Neiva):  Estudia Geociencias e Ingeniería Química. Borró lo del colaborador original por accidente (sorry :'c ). 
