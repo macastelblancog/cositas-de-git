@@ -11,6 +11,3 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 # Acerca del autor
 
 M. Castelblanco nación en Bogotá en 1998. Estudia Geociencias e Ingeniería Química.
-
-# Acerca del colaborador
-C. Bucheli nació en Neiva en 1998. Estudia Geociencias e Ingeniería Química. 
