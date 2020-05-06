@@ -4,7 +4,7 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 
 ### Formato Markdown
 
-![FMA](http://6iee.com/data/uploads/18/682732.jpg)
+![FMA] (https://c.wallhere.com/photos/ef/47/Full_Metal_Alchemist_Brotherhood-43202.jpg)
 
 [Google](https://www.google.com)
 
