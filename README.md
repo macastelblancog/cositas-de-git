@@ -11,3 +11,7 @@ Esta es una tarea de Laboratorio de Métodos Computacionales
 # Acerca del autor
 
 M. Castelblanco nación en Bogotá en 1998. Estudia Geociencias e Ingeniería Química.
+
+# Sobre el Colaborador
+
+Le gusta el jugo hit de mora.
